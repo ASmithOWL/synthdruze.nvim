@@ -12,6 +12,11 @@ local c = {
 	green_bright = "#72f1b8",
 	green_dark = "#297373",
 	purple = "#af125a",
+    pastel_pink = "#ffcfea",
+    pastel_blue = "#afe9ff",
+    vaporberry = "#cf4eb1",
+    mandarin = "#f6ae27",
+    pineapple = "#feda84",
 
 	white_bluish = "#a2c7e5",
 	white = "#fbf9ff",
